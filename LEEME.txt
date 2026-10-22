@@ -1,12 +1,6 @@
-REGISTRO DE NEGOCIOS - PWA
-
-PUBLICAR EN GITHUB PAGES
-1. Crea un repositorio nuevo en GitHub (por ejemplo registro-negocios).
-2. Sube los 5 archivos de esta carpeta a la raiz del repositorio: index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png.
-3. Settings > Pages > Build and deployment > Deploy from a branch > main / (root) > Save.
-4. Abre https://TU-USUARIO.github.io/registro-negocios/ en Chrome de Android.
-5. Menu (tres puntos) > Instalar aplicacion.
-
-AVISO: El codigo se puede publicar, pero los registros de clientes quedan localmente en el dispositivo. No subas archivos de respaldo con datos personales al repositorio. Los datos NO se sincronizan entre instalaciones ni navegadores. Realiza respaldos JSON frecuentes.
-
-VERSIÓN 3.3: Botón Compartir WhatsApp en cada cliente guardado. Abre WhatsApp con los 21 campos (incluyendo vacíos), sin enviar automáticamente.
+Registro de Negocios 3.5
+Basado en la version 3.3 adjuntada por el usuario.
+Cambios: exportacion CSV vertical y fecha DD/MM/AAAA en WhatsApp.
+No se altero la clave de almacenamiento local.
+Antes de actualizar, exporte una copia de seguridad.
+Si Microsoft Defender alerta, no permita la amenaza; conserve la version anterior.
